@@ -1,4 +1,4 @@
-# iStore OS 固件 | 简单修改，荐片为主路由模式
+# iStore OS 固件 | 若无特殊设置，默认为主路由模式
 
 [![iStore使用文档](https://img.shields.io/badge/使用文档-iStore%20OS-brightgreen?style=flat-square)](https://doc.linkease.com/zh/guide/istoreos) [![最新固件下载](https://img.shields.io/github/v/release/xiaomeng9597/Actions-iStoreOS-RK35XX?style=flat-square&label=最新固件下载)](../../releases/latest)
 
@@ -70,8 +70,11 @@
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
 - [draco-china/istoreos-actions](https://github.com/draco-china/istoreos-actions)
 
+
+
+
 ## 捐赠
-- 如果你觉得此系统好用的话，请我喝一杯82年的凉白开吧，感谢！
+- 如果你觉得此系统好用的话，请原作者喝一杯82年的凉白开吧！
 
 -支付宝-
 # <img src="https://jihulab.com/xiaomeng9597/webfiles/-/raw/main/zfb.jpg?inline=true" alt="支付宝收款码" width="200" />
